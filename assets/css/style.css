@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: #01036f;
+  color: #3A001E;
 }
 
 .navbar .dropdown ul a i {
@@ -880,7 +880,7 @@ section {
 }
 
 .features .icon-box h3 a:hover {
-  color: #01036f;
+  color: #3A001E;
 }
 
 .features .icon-box:hover {
@@ -1127,7 +1127,7 @@ section {
   font-weight: 700;
   margin-bottom: 10px;
   font-size: 16px;
-  color: #01036f;
+  color: #3A001E;
   position: relative;
   padding-bottom: 10px;
 }
@@ -1147,7 +1147,7 @@ section {
   font-style: italic;
   display: block;
   font-size: 13px;
-  color: #01036f;
+  color: #3A001E;
 }
 
 .team .member .social {
@@ -1156,7 +1156,7 @@ section {
 
 .team .member .social a {
   transition: color 0.3s;
-  color: #01036f;
+  color: #3A001E;
 }
 
 .team .member .social a:hover {
